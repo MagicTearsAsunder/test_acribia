@@ -1,0 +1,16 @@
+# system, cache or compiled files
+__pycache__
+.idea/
+.pytest_cache/
+.cache/
+
+# virtual environment
+venv
+env
+ENV
+
+# migration files
+*/migrations/[0-9][0-9][0-9][0-9]*
+
+# SQLite3
+db.sqlite3
