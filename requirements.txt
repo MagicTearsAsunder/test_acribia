@@ -1,6 +1,6 @@
 aiofiles
 aiohttp
 asyncio
-Django==2.2.9
+Django==2.2.10
 djangorestframework
 psycopg2
